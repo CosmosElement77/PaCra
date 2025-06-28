@@ -9,7 +9,7 @@ Follow as:-
 Now Navigate to the folder in which both the python scripts are and open a terminal in the folder.
 In the terminal, enter:
 <br><br>
-`pyinstaller Frontend.exe --onefile -w`
+`pyinstaller Frontend.py --onefile -w`
  <br><br>
 This will create a folder named 'build' and 'dist'.
 The dist folder will contain the .exe file and you can use it anywhere on your PC by creating a shortcut to the main .exe file itself.
